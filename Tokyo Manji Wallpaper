@@ -1,0 +1,33 @@
+
+  "username": "hustamasker",
+  "album": [
+    "My Wallpaper", "Cat", "Green Nature"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-6557874626961060",
+  "app_id": "ca-app-pub-6557874626961060~8620773894",
+  "admob_banner_id": "ca-app-pub-6557874626961060/6485565148",
+  "admob_interstitial_id": "ca-app-pub-6557874626961060/7116120533",
+  "admob_native_id": "ca-app-pub-6557874626961060/5064386851",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "",
+
+  "interstitial_inverval": 10,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "STARTAPP",
+    "FAN"
+  ]
+}
