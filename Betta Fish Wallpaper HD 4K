@@ -6,9 +6,9 @@
   "init_jumlah_photo": 100,
   "pub_id": "pub-6557874626961060",
   "app_id": "ca-app-pub-6557874626961060~7272075732",
-  "admob_banner_id": "ca-app-pub-6557874626961060/6888932359",
-  "admob_interstitial_id": "ca-app-pub-6557874626961060/9404604429",
-  "admob_native_id": "ca-app-pub-6557874626961060/5950776278",
+  "admob_banner_id": "ca-app-pub",
+  "admob_interstitial_id": "ca-app-pub-6557874626961060/4610729704",
+  "admob_native_id": "ca-app-pub-6557874626961060/3504040902",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
